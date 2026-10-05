@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache and local configuration
+.streamlit/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
